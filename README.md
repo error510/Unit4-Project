@@ -14,7 +14,19 @@ You will have enough guidance throughout the project and your work will be revie
 - Don't forget to save the different models you tested so you will be able to report the different results you got and the impact of the different techniques you tested later.
 
 ### Getting started
-- In case you don't have a GPU, it is recommended that you use google colab. Start by cloning this repository, then open [google colab](https://colab.research.google.com/), click on File > Upload notebook, and finally upload the ```.ipynb``` file from the repository you have just cloned! Don't forget to change the runtime to GPU. If you want to work in your local environment just open it using jupyter notebook.
+> In case you don't have a GPU, it is recommended that you use google colab. Start by cloning this repository, then open [google colab](https://colab.research.google.com/), click on File > Upload notebook, and finally upload the ```.ipynb``` file from the repository you have just cloned! Don't forget to change the runtime to GPU. If you want to work in your local environment just open it using jupyter notebook.
 
-###  Github Repository
-[Link to the github started project](#)
+1. Fork this repository into your Github account. To do so, click on the fork button in the upper right hand corner of a repo page.
+2. Head to the forked version on your github then clone it on your local space.
+3. Open the notebook.
+
+Feel free to manage your versions as you want.
+
+
+4. Once you finished your project and you are confident about the results, You have to push those details to your forked version of the project The following Git commands should be helpful for you as a reminder : 
+* `$git add .` 
+*  `$git commit -m "commit msg"` 
+*  `$git push origin main`
+
+Once you're done working on the project, submit the link to you repository in the platform.
+
